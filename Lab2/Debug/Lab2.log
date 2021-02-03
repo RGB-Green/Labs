@@ -1,0 +1,5 @@
+﻿  Lab2_Ramazanov_201_351.cpp
+C:\Users\Фаиль\source\repos\Lab2\Lab2_Ramazanov_201_351.cpp(30,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Фаиль\source\repos\Lab2\Lab2_Ramazanov_201_351.cpp(32,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Фаиль\source\repos\Lab2\Lab2_Ramazanov_201_351.cpp(32,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Lab2.vcxproj -> C:\Users\Фаиль\source\repos\ConsoleApplication2\Debug\Lab2.exe
